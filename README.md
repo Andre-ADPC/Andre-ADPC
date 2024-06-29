@@ -1,16 +1,27 @@
+<!-- @format -->
+
 ## Hi there 👋
 
-
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Nuxt, Vue, Pinia, Laravel, and Ionic's Capacitor SPA Project development
+- 👯 I’m looking to collaborate on Business Development Projects with a global reach potential
+- 🤔 I’m looking for help with Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [LinkedIn]() — [X]() — [DEV.TO]()
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I blow bubbles 🫧! Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking picturea and videos of all the strange critters to be found there is extremely rewarding in its own relaxing way.
 
+---
 
-----
-<img src="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+### Tech Stack I Enjoy Using
+
+<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\HTML5-01.svg" alt="HTML5" style="max-width: 100%;">
+<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\CSS3-01.svg" alt="CSS3" style="max-width: 100%;">
+<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;">
+<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\Node.JS.svg" alt="Node.JS" style="max-width: 100%;">
+<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;">
+<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\JavaScript.svg" alt="JavaScript" style="max-width: 100%;">
+<img src="" alt="HTML5" style="max-width: 100%;">
+<img src="" alt="HTML5" style="max-width: 100%;">
+<img src="" alt="HTML5" style="max-width: 100%;">
+<img src="" alt="HTML5" style="max-width: 100%;">
