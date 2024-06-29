@@ -9,7 +9,12 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [LinkedIn]() — [X]() — [DEV.TO]()
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I blow bubbles 🫧! Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking picturea and videos of all the strange critters to be found there is extremely rewarding in its own relaxing way.
+
+---
+
+### ⚡ Fun fact: I blow bubbles 🫧!
+
+Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking picturea and videos of all the strange critters to be found there is extremely rewarding in its own relaxing way.
 
 ---
 
@@ -21,7 +26,11 @@
 <img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\Node.JS.svg" alt="Node.JS" style="max-width: 100%;">
 <img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;">
 <img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\JavaScript.svg" alt="JavaScript" style="max-width: 100%;">
+<img src="" alt="Nuxt.JS 3" style="max-width: 100%;">
+<img src="" alt="Vue.JS 3" style="max-width: 100%;">
+<img src="" alt="Ionic Capacitor" style="max-width: 100%;">
 <img src="" alt="HTML5" style="max-width: 100%;">
-<img src="" alt="HTML5" style="max-width: 100%;">
-<img src="" alt="HTML5" style="max-width: 100%;">
-<img src="" alt="HTML5" style="max-width: 100%;">
+
+---
+
+# Hello Mauritz! 😄
