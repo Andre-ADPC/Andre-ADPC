@@ -69,6 +69,8 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 ### Tech Stack I Enjoy Using
 
+<p align="center">
+
 <img src="./Assets/SVG_Files/HTML5-01.svg" alt="HTML5" style="max-width: 100%; margin:10px;">
 <img src="./Assets/SVG_Files/CSS3-01.svg" alt="CSS3" style="max-width: 100%;margin:10px;">
 <img src="./Assets/SVG_Files/TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;margin:10px;">
@@ -79,6 +81,7 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 <img src="" alt="Vue.JS 3" style="max-width: 100%;margin:10px;">
 <img src="" alt="Ionic Capacitor" style="max-width: 100%;margin:10px;">
 <img src="" alt="Rust" style="max-width: 100%;margin:10px;">
+</p>
 
 ---
 
