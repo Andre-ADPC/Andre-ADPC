@@ -39,6 +39,10 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 > - [Substack](https://andreduplessis.substack.com/)
 > - [Facebook](https://www.facebook.com/RedDragonX5)
 
+**Secure Confidential Contact Channels**
+> - [Signal](https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\Andre-Signal-QRC.png)
+---
+
 #### Me the human ...
 
 _🏷️Dad-of-Four, Ex-Teleco engineer, entrepreneur, self-taught dev, interested in tech, science, and life on a broad scale. Always busy developing and learning. Currently Building Q-Droid._
@@ -63,12 +67,12 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 ### Tech Stack I Enjoy Using
 
-<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\HTML5-01.svg" alt="HTML5" style="max-width: 100%;">
-<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\CSS3-01.svg" alt="CSS3" style="max-width: 100%;">
-<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;">
-<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\Node.JS.svg" alt="Node.JS" style="max-width: 100%;">
-<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;">
-<img src="C:\Laragon\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\JavaScript.svg" alt="JavaScript" style="max-width: 100%;">
+<img src="https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\HTML5-01.svg" alt="HTML5" style="max-width: 100%;">
+<img src="https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\CSS3-01.svg" alt="CSS3" style="max-width: 100%;">
+<img src="https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;">
+<img src="https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\Node.JS.svg" alt="Node.JS" style="max-width: 100%;">
+<img src="https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;">
+<img src="https:\\github.com\www\Andre-ADPC\Andre-ADPC\Assets\SVG_Files\JavaScript.svg" alt="JavaScript" style="max-width: 100%;">
 <img src="" alt="Nuxt.JS 3" style="max-width: 100%;">
 <img src="" alt="Vue.JS 3" style="max-width: 100%;">
 <img src="" alt="Ionic Capacitor" style="max-width: 100%;">
@@ -76,4 +80,7 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 ---
 
-# Hello Mauritz! 😄
+### [Hello Mauritz. May the chaos as an IT Tech supporter never cease, dude! 😄](https://www.facebook.com/mauritz.duplessis.319)
+### [Hi Alicia. Done with that hacker yet? 😄](https://www.linkedin.com/in/alicia-v-1096a463/)
+
+_Just messing with my kids a bit. It keeps them on their toes! :wink:_
