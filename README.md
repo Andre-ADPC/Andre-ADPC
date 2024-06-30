@@ -87,13 +87,3 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 ### [Hi Alicia. Done with that hacker yet? 😄](https://www.linkedin.com/in/alicia-v-1096a463/)
 
 _Just messing with my kids a bit. It keeps them on their toes! :wink:_
-
-<script setup>
-	const html = "<p></p>";
-</script>
-<template>
-
-<div>
-  {{ html }}
-</div>
-</template>
