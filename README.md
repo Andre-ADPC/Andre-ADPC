@@ -80,13 +80,6 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 <img src="" alt="Ionic Capacitor" style="max-width: 100%;">
 <img src="" alt="Rust" style="max-width: 100%;">
 
-<-
-Path:
-Assets/SVG_Files
-PermaLink:
-https://github.com/Andre-ADPC/Andre-ADPC/tree/44c5d22d093fc986ee056e81f4794d0ad927d45d/Assets/SVG_Files
-->
-
 ---
 
 ### [Hello Mauritz. May the chaos as an IT Tech supporter never cease, dude! 😄](https://www.facebook.com/mauritz.duplessis.319)
