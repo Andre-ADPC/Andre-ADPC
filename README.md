@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+This will in all probability remain a WIP!
+
 #### 🔭 I’m currently working on ...
 
 > - Building an SPA | API Project to practice my development skills with the tools below.
