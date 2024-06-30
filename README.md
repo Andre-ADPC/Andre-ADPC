@@ -69,16 +69,16 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 ### Tech Stack I Enjoy Using
 
-<img src="./Assets/SVG_Files/HTML5-01.svg" alt="HTML5" style="max-width: 100%;">
-<img src="https://github.com/Andre-ADPC/Andre-ADPC/tree/44c5d22d093fc986ee056e81f4794d0ad927d45d/Assets/SVG_Files/CSS3-01.svg" alt="CSS3" style="max-width: 100%;">
-<img src="https://github.com/Andre-ADPC/Andre-ADPC/tree/44c5d22d093fc986ee056e81f4794d0ad927d45d/Assets/SVG_Files/TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;">
-<img src="https://github.com/Andre-ADPC/Andre-ADPC/tree/44c5d22d093fc986ee056e81f4794d0ad927d45d/Assets/SVG_Files/Node.JS.svg" alt="Node.JS" style="max-width: 100%;">
-<img src="https://github.com/Andre-ADPC/Andre-ADPC/tree/44c5d22d093fc986ee056e81f4794d0ad927d45d/Assets/SVG_Files/TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;">
-<img src="https://github.com/Andre-ADPC/Andre-ADPC/tree/44c5d22d093fc986ee056e81f4794d0ad927d45d/Assets/SVG_Files/JavaScript.svg" alt="JavaScript" style="max-width: 100%;">
-<img src="" alt="Nuxt.JS 3" style="max-width: 100%;">
-<img src="" alt="Vue.JS 3" style="max-width: 100%;">
-<img src="" alt="Ionic Capacitor" style="max-width: 100%;">
-<img src="" alt="Rust" style="max-width: 100%;">
+<img src="./Assets/SVG_Files/HTML5-01.svg" alt="HTML5" style="max-width: 100%; margin:10px;">
+<img src="./Assets/SVG_Files/CSS3-01.svg" alt="CSS3" style="max-width: 100%;margin:10px;">
+<img src="./Assets/SVG_Files/TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;margin:10px;">
+<img src="./Assets/SVG_Files/Node.JS.svg" alt="Node.JS" style="max-width: 100%;margin:10px;">
+<img src="./Assets/SVG_Files/TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;margin:10px;">
+<img src="./Assets/SVG_Files/JavaScript.svg" alt="JavaScript" style="max-width: 100%;margin:10px;">
+<img src="" alt="Nuxt.JS 3" style="max-width: 100%;margin:10px;">
+<img src="" alt="Vue.JS 3" style="max-width: 100%;margin:10px;">
+<img src="" alt="Ionic Capacitor" style="max-width: 100%;margin:10px;">
+<img src="" alt="Rust" style="max-width: 100%;margin:10px;">
 
 ---
 
