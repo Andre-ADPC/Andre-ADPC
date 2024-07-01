@@ -71,18 +71,18 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 <p align="center">
 
-[<img src="./Assets/SVG_Files/HTML5.svg" alt="HTML5" style="max-width: 100px margin: 10px;">](https://html.spec.whatwg.org/multipage/)
-[<img src="./Assets/SVG_Files/CSS3.svg" alt="CSS3" style="max-width: 100px margin: 10px;">](https://www.w3.org/Style/CSS/specs.en.html)
-[<img src="./Assets/SVG_Files/TypeScript.svg" alt="TypeScript" style="max-width: 100px margin: 10px;">](https://www.typescriptlang.org/)
-[<img src="./Assets/SVG_Files/Playwright.svg" alt="Playwright" style="max-width: 100px margin: 10px;">](https://playwright.dev/)
-[<img src="./Assets/SVG_Files/Cypress.svg" alt="Playwright" style="max-width: 100px margin: 10px;">](https://www.cypress.io/)
-[<img src="./Assets/SVG_Files/NodeJS.svg" alt="Node.JS" style="max-width: 100px margin: 10px;">](https://nodejs.org/en)
-[<img src="./Assets/SVG_Files/TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100px margin: 10px;">](https://tailwindcss.com/)
-[<img src="./Assets/SVG_Files/JavaScript.svg" alt="JavaScript" style="max-width: 100px margin: 10px;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="./Assets/SVG_Files/Nuxt.JS.svg" alt="Nuxt.JS" style="max-width: 100px margin: 10px;">](https://nuxt.com/)
-[<img src="./Assets/SVG_Files/Vue.JS.svg" alt="Vue.JS" style="max-width: 100px margin: 10px;">](https://vuejs.org/)
-[<img src="./Assets/SVG_Files/Capacitor.svg" alt="Ionic Capacitor.JS" style="max-width: 100px margin: 10px;">](https://capacitorjs.com/)
-[<img src="./Assets/SVG_Files/RustLang.svg" alt="Rust Language" style="max-width: 100px margin: 10px;">](https://www.rust-lang.org/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/HTML5.svg" alt="HTML5" >](https://html.spec.whatwg.org/multipage/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/CSS3.svg" alt="CSS3" >](https://www.w3.org/Style/CSS/specs.en.html)
+[<img height="40" margin="10" src="./Assets/SVG_Files/TypeScript.svg" alt="TypeScript" >](https://www.typescriptlang.org/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/Playwright.svg" alt="Playwright" >](https://playwright.dev/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/Cypress.svg" alt="Playwright" >](https://www.cypress.io/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/NodeJS.svg" alt="Node.JS" >](https://nodejs.org/en)
+[<img height="40" margin="10" src="./Assets/SVG_Files/TailwindCSS.svg" alt="Tailwind CSS" >](https://tailwindcss.com/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/JavaScript.svg" alt="JavaScript" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="40" margin="10" src="./Assets/SVG_Files/Nuxt.JS.svg" alt="Nuxt.JS" >](https://nuxt.com/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/Vue.JS.svg" alt="Vue.JS" >](https://vuejs.org/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/Capacitor.svg" alt="Ionic Capacitor.JS" >](https://capacitorjs.com/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/RustLang.svg" alt="Rust Language" >](https://www.rust-lang.org/)
 
 </p>
 
