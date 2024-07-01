@@ -1,4 +1,7 @@
 <!-- @format -->
+<p align="center">
+  <img src=".\Assets\Image_Files\img1.jpg" height="150">
+</p>
 
 ## Hi there 👋
 
