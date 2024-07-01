@@ -71,22 +71,23 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 <p align="center">
 
-<img src="./Assets/SVG_Files/HTML5-01.svg" alt="HTML5" style="max-width: 100%; margin:10px;">
-<img src="./Assets/SVG_Files/CSS3-01.svg" alt="CSS3" style="max-width: 100%;margin:10px;">
-<img src="./Assets/SVG_Files/TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;margin:10px;">
-<img src="./Assets/SVG_Files/Node.JS.svg" alt="Node.JS" style="max-width: 100%;margin:10px;">
-<img src="./Assets/SVG_Files/TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;margin:10px;">
-<img src="./Assets/SVG_Files/JavaScript.svg" alt="JavaScript" style="max-width: 100%;margin:10px;">
-<img src="" alt="Nuxt.JS 3" style="max-width: 100%;margin:10px;">
-<img src="" alt="Vue.JS 3" style="max-width: 100%;margin:10px;">
-<img src="" alt="Ionic Capacitor" style="max-width: 100%;margin:10px;">
-<img src="" alt="Rust" style="max-width: 100%;margin:10px;">
+[<img src="./Assets/SVG_Files/HTML5-01.svg" alt="HTML5" style="max-width: 100%; margin:10px;">](https://html.spec.whatwg.org/multipage/)
+[<img src="./Assets/SVG_Files/CSS3-01.svg" alt="CSS3" style="max-width: 100%;margin:10px;">](https://www.w3.org/Style/CSS/specs.en.html)
+[<img src="./Assets/SVG_Files/TypeScript-01.svg" alt="TypeScript" style="max-width: 100%;margin:10px;">](https://www.typescriptlang.org/)
+[<img src="./Assets/SVG_Files/Node.JS.svg" alt="Node.JS" style="max-width: 100%;margin:10px;">](https://nodejs.org/en)
+[<img src="./Assets/SVG_Files/TailwindCSS.svg" alt="Tailwind CSS" style="max-width: 100%;margin:10px;">](https://tailwindcss.com/)
+[<img src="./Assets/SVG_Files/JavaScript.svg" alt="JavaScript" style="max-width: 100%;margin:10px;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="" alt="Nuxt.JS" style="max-width: 100%;margin:10px;">](https://nuxt.com/)
+[<img src="" alt="Vue.JS" style="max-width: 100%;margin:10px;">](https://vuejs.org/)
+[<img src="" alt="Ionic Capacitor.JS" style="max-width: 100%;margin:10px;">](https://capacitorjs.com/)
+[<img src="" alt="Rust Language" style="max-width: 100%;margin:10px;">](https://www.rust-lang.org/)
+
 </p>
 
 ---
 
 ### [Hello Mauritz. May the chaos as an IT Tech supporter never cease, dude! 😄](https://www.facebook.com/mauritz.duplessis.319)
 
-### [Hi Alicia. Done with that hacker yet? 😄](https://www.linkedin.com/in/alicia-v-1096a463/)
+### [Hi Alicia. Done with that hacker yet? 🤩](https://www.linkedin.com/in/alicia-v-1096a463/)
 
 _Just messing with my kids a bit. It keeps them on their toes! :wink:_
