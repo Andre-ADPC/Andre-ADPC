@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.75" height="28" role="img" aria-label="TAILWIND CSS">
-<script xmlns="" id="__gaOptOutExtension"/>
-<title>TAILWIND CSS</title>
-<g shape-rendering="crispEdges">
-  <rect width="138.75" height="28" fill="#38b2ac"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 3292.553 702.734"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="TailwindCSS-Banner.SVG">
+   <polygon fill="#38B2AC" points="-0,702.734 3231.758,702.734 3231.758,0 -0,0 "/>
+   <text x="682.524" y="463.524"  fill="white" stroke="white" stroke-width="0.762" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" font-weight="bold" font-size="282.222px" font-family="Arial">TAILWIND CSS</text>
+   <g>
+    <polygon fill="white" stroke="white" stroke-width="0.762" stroke-miterlimit="22.9256" points="147.111,581.704 568.047,580.677 568.074,161.902 549.665,161.05 165.046,160.721 147.111,162.683 "/>
+    <path fill="#38B2AC" stroke="white" stroke-width="0.762" stroke-miterlimit="22.9256" d="M185.674 436.011c71.527,-54.978 70.681,3.663 127.221,30.407 59.762,28.267 117.763,0.03 129.534,-54.095 -19.251,11.39 -38.509,34.008 -73.425,14.031 -22.756,-13.023 -26.256,-31.475 -55.024,-45.551 -55.098,-26.96 -124.583,3.716 -128.306,55.208zm87.062 -105.926c19.757,-11.786 40.375,-34.081 72.759,-12.821 19.74,12.96 32.142,34.058 55.873,44.482 56.24,24.704 121.961,-1.049 128.145,-55.189 -72.844,83.826 -96.81,-77.393 -208.438,-34.193 -26.681,10.325 -41.064,26.286 -48.339,57.721z"/>
+   </g>
   </g>
-<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-  <image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlRhaWx3aW5kIENTUzwvdGl0bGU+PHBhdGggZD0iTTEyLjAwMSw0LjhjLTMuMiwwLTUuMiwxLjYtNiw0LjhjMS4yLTEuNiwyLjYtMi4yLDQuMi0xLjhjMC45MTMsMC4yMjgsMS41NjUsMC44OSwyLjI4OCwxLjYyNCBDMTMuNjY2LDEwLjYxOCwxNS4wMjcsMTIsMTguMDAxLDEyYzMuMiwwLDUuMi0xLjYsNi00LjhjLTEuMiwxLjYtMi42LDIuMi00LjIsMS44Yy0wLjkxMy0wLjIyOC0xLjU2NS0wLjg5LTIuMjg4LTEuNjI0IEMxNi4zMzcsNi4xODIsMTQuOTc2LDQuOCwxMi4wMDEsNC44eiBNNi4wMDEsMTJjLTMuMiwwLTUuMiwxLjYtNiw0LjhjMS4yLTEuNiwyLjYtMi4yLDQuMi0xLjhjMC45MTMsMC4yMjgsMS41NjUsMC44OSwyLjI4OCwxLjYyNCBjMS4xNzcsMS4xOTQsMi41MzgsMi41NzYsNS41MTIsMi41NzZjMy4yLDAsNS4yLTEuNiw2LTQuOGMtMS4yLDEuNi0yLjYsMi4yLTQuMiwxLjhjLTAuOTEzLTAuMjI4LTEuNTY1LTAuODktMi4yODgtMS42MjQgQzEwLjMzNywxMy4zODIsOC45NzYsMTIsNi4wMDEsMTJ6Ii8+PC9zdmc+"/>
-  <text transform="scale(.1)" x="793.75" y="175" textLength="947.5" fill="#fff" font-weight="bold">TAILWIND CSS</text>
-  </g>
-  <div xmlns="" id="divScriptsUsed" style="display: none"/>
-  <script xmlns="" id="globalVarsDetection" src="moz-extension://dcc6d036-a261-4edd-abe6-c5b3a45c9a48/js/wrs_env.js"/>
+ </g>
 </svg>

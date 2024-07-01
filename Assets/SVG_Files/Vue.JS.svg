@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 3231.728 702.734"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Vue.JS-Banner">
+   <polygon fill="#6DA55F" points="-0,702.734 3231.728,702.734 3231.728,0 -0,0 "/>
+   <g>
+    <polygon fill="#FEFFFF" points="147.583,575.568 568.545,575.568 568.545,154.606 147.583,154.606 "/>
+    <g id="Vue-logo">
+     <polygon fill="#41B883" fill-rule="nonzero" points="458.106,221.275 524.804,221.275 358.064,508.898 191.325,221.275 318.879,221.275 358.064,287.97 396.413,221.275 "/>
+     <polygon fill="#41B883" fill-rule="nonzero" points="191.325,221.275 358.064,508.898 524.804,221.275 458.106,221.275 358.064,393.849 257.186,221.275 "/>
+     <polygon fill="#35495E" fill-rule="nonzero" points="257.186,221.275 358.064,394.682 458.106,221.275 396.413,221.275 358.064,287.97 318.879,221.275 "/>
+    </g>
+   </g>
+   <text x="993.969" y="443.679"  fill="white" stroke="white" stroke-width="0.762" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" font-weight="bold" font-size="282.222px" font-family="Arial">VUE 3.JS</text>
+  </g>
+ </g>
+</svg>
