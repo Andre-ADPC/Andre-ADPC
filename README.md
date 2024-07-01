@@ -93,15 +93,15 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 
 </p>
 
-#### Other Frameworks & Tools I curently use<sup>📗</sup> or are learning to or plan to use<sup>📘</sup>
+### Other Frameworks & Tools I curently use<sup>📗</sup> or are learning to or plan to use<sup>📘</sup>
 
-| Database Types          | Database Platforms        | Other Tools                     |
-| :-----------------------| :-----------------------: | ------------------------------: |
-| MySQL<sup>📗</sup>      | PlanetScale<sup>📘</sup>  | GitTower<sup>📘</sup>          |
-| PostgeSQL<sup>📘</sup>  | ClickHouse<sup>📘</sup>   | Laragon<sup>📗</sup>           |
-| SQLite<sup>📗</sup>     | SingleStore<sup>📘</sup>  | MySQL Workbench<sup>📗</sup>   |
-| NoSQL<sup>📘</sup>      | AWS<sup>📗/sup>           | TablePlus<sup>📗</sup>         |
-| Redis<sup>📘</sup>      | ?📘                       | Docker<sup>📗</sup>            |
+| Database Types         |    Database Platforms    |                  Other Tools |
+| :--------------------- | :----------------------: | ---------------------------: |
+| MySQL<sup>📗</sup>     | PlanetScale<sup>📘</sup> |        GitTower<sup>📘</sup> |
+| PostgeSQL<sup>📘</sup> | ClickHouse<sup>📘</sup>  |         Laragon<sup>📗</sup> |
+| SQLite<sup>📗</sup>    | SingleStore<sup>📘</sup> | MySQL Workbench<sup>📗</sup> |
+| NoSQL<sup>📘</sup>     |     AWS<sup>📗/sup>      |       TablePlus<sup>📗</sup> |
+| Redis<sup>📘</sup>     |           ?📘            |          Docker<sup>📗</sup> |
 
 ---
 
