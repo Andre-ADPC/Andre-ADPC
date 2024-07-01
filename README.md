@@ -1,17 +1,21 @@
 <!-- @format -->
 <p align="center">
-  <img src=".\Assets\Image_Files\img1.jpg" height="250">
+  <img width="100%" src=".\Assets\Image_Files\img1.jpg" alt="Hero Image">
 </p>
 
 ## Hi there 👋
 
-This will in all probability remain a WIP!
+**$${\color{#c40002}Welcome \space \color{grey}To \space \color{orange}My \space \color{d8b92b} GitHub \space \color{3186bf} Page}$$**
+
+$${\color{white}This \space will  \space in  \space all  \space probability  \space remain  \space a  \space \color{#c40002}WIP \space \color{white}!}$$
+
+---
 
 #### 🔭 I’m currently working on ...
 
 > - Building an SPA | API Project to practice my development skills with the tools below.
 
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m busy learning ...
 
 > - TypeScript
 > - Nuxt
@@ -88,6 +92,16 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 [<img height="40" margin="10" src="./Assets/SVG_Files/RustLang.svg" alt="Rust Language" >](https://www.rust-lang.org/)
 
 </p>
+
+#### Other Frameworks & Tools I curently use<sup>📗</sup> or are learning to or plan to use<sup>📘</sup>
+
+| Database Types          | Database Platforms        | Other Tools                     |
+| :-----------------------| :-----------------------: | ------------------------------: |
+| MySQL<sup>📗</sup>      | PlanetScale<sup>📘</sup>  | GitTower<sup>📘</sup>          |
+| PostgeSQL<sup>📘</sup>  | ClickHouse<sup>📘</sup>   | Laragon<sup>📗</sup>           |
+| SQLite<sup>📗</sup>     | SingleStore<sup>📘</sup>  | MySQL Workbench<sup>📗</sup>   |
+| NoSQL<sup>📘</sup>      | AWS<sup>📗/sup>           | TablePlus<sup>📗</sup>         |
+| Redis<sup>📘</sup>      | ?📘                       | Docker<sup>📗</sup>            |
 
 ---
 
