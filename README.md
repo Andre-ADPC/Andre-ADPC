@@ -1,6 +1,6 @@
 <!-- @format -->
 <p align="center">
-  <img src=".\Assets\Image_Files\img1.jpg" height="150">
+  <img src=".\Assets\Image_Files\img1.jpg" height="250">
 </p>
 
 ## Hi there 👋
