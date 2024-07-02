@@ -62,7 +62,7 @@ _🎓Formal education, which was a looong time ago: - Electronics Eng, South Afr
 
 _🛖 Currently based in **Tbilisi, Georgia**_
 
-> - Catch me on [Email](mailto:andre.du.plessis@adpc-llc.com) if you'd like to connect that way.
+> - 📧 Catch me on [Email](mailto:andre.du.plessis@adpc-llc.com) if you'd like to connect that way.
 
 - 😄 Pronouns: he/him
 
