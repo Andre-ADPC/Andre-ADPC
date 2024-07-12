@@ -44,7 +44,7 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 > - **[ X ](https://x.com/AndreDuP_ADPC)**
 > - **[DEV.TO](https://dev.to/andre_adpc)**
 > - **[Stackoverflow](https://stackoverflow.com/users/19977074/andre?tab=profile)**
-> - **[Substack](https://andreduplessis.substack.com/)
+> - **[Substack](https://andreduplessis.substack.com/)**
 > - **[Facebook](https://www.facebook.com/RedDragonX5)**
 
 **Secure Confidential Contact Channels**
