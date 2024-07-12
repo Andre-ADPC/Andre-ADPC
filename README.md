@@ -28,7 +28,7 @@ $${\color{white}This \space will  \space in  \space all  \space probability  \sp
 #### 👯 I’m looking to collaborate on ...
 
 - Business Development Projects with a global reach potential.
-- I'm a founder/partner/consultant of a few small tech-related companies, and a few standard bolts-n-nuts businesses.
+- I'm a founder/partner/consultant of a few small tech-related companies and a few standard bolts-n-nuts businesses.
 
 #### 🤔 I’m looking for help with ...
 
@@ -40,11 +40,12 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 
 #### 📫 How to reach me:...
 
-> - [LinkedIn](https://www.linkedin.com/in/andre-du-plessis-992a0329)
+> - **[LinkedIn](https://www.linkedin.com/in/andre-du-plessis-992a0329)**
 > - **[ X ](https://x.com/AndreDuP_ADPC)**
-> - [DEV.TO](https://dev.to/andre_adpc)
-> - [Substack](https://andreduplessis.substack.com/)
-> - [Facebook](https://www.facebook.com/RedDragonX5)
+> - **[DEV.TO](https://dev.to/andre_adpc)**
+> - **[Stackoverflow](https://stackoverflow.com/users/19977074/andre?tab=profile)**
+> - **[Substack](https://andreduplessis.substack.com/)
+> - **[Facebook](https://www.facebook.com/RedDragonX5)**
 
 **Secure Confidential Contact Channels**
 
@@ -56,7 +57,7 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 
 _🏷️Dad-of-Four, Ex-Teleco engineer, entrepreneur, self-taught dev, interested in tech, science, and life on a broad scale. Always busy developing and learning. Currently Building Q-Droid._
 
-_🏷️I enjoy chatting about: Opinions, Facts and Practical Information regarding Entrepreneuring, Business Ventures, Software Development, Science & Tech. As I learn I write about it on Substack and here._
+_🏷️I enjoy chatting about: Opinions, Facts and Practical Information regarding Entrepreneurship, Business Ventures, Software Development, Science & Tech. As I learn I write about it on Substack and here._
 
 _🎓Formal education, which was a looong time ago: - Electronics Eng, South Africa, Vaal University of Technology_
 
@@ -70,7 +71,7 @@ _🛖 Currently based in **Tbilisi, Georgia**_
 
 ### ⚡ Fun fact: I blow bubbles 🫧!
 
-Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking picturea and videos of all the strange critters to be found there is extremely rewarding in its own relaxing way.
+Yes, the underwater kind. Scuba diving is a favourite pastime, and taking pictures and videos of all the strange critters to be found there is extremely rewarding in its own relaxing way.
 
 ---
 
