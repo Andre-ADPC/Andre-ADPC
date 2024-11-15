@@ -60,15 +60,15 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 
 #### Me the human ...
 
-_🏷️  Dad-of-Four, Ex-Teleco engineer, entrepreneur, self-taught dev, interested in tech, science, and life on a broad scale. Always busy developing and learning. Currently Building Q-Droid._
+_🏷️ —  Dad-of-Four, Ex-Teleco engineer, entrepreneur, self-taught dev, interested in tech, science, and life on a broad scale. Always busy developing and learning. Currently Building Q-Droid._
 
-_🏷️  I enjoy chatting about: Opinions, Facts and Practical Information regarding Entrepreneurship, Business Ventures, Software Development, Science & Tech. As I learn I write about it on Substack and here._
+_🏷️ —  I enjoy chatting about: Opinions, Facts and Practical Information regarding Entrepreneurship, Business Ventures, Software Development, Science & Tech. As I learn I write about it on Substack and here._
 
 _🎓Formal education, which was a looong time ago: - Electronics Eng, South Africa, Vaal University of Technology_
 
 _🛖 Currently based in **Tbilisi, Georgia**_
 
-> - [💬 Signal](https://github.com/Andre-ADPC/Andre-ADPC/blob/main/Assets/Image_Files/Andre-Signal-QRC.png)
+> - 💬 [Signal](https://github.com/Andre-ADPC/Andre-ADPC/blob/main/Assets/Image_Files/Andre-Signal-QRC.png)
 > - 📧 Catch me on [Email](mailto:andre.du.plessis@adpc-llc.com) if you'd like to connect that way.
 
 - 😄 Pronouns: he/him
