@@ -20,10 +20,14 @@ $${\color{white}This \space will  \space in  \space all  \space probability  \sp
 > - TypeScript
 > - Nuxt
 > - Vue
+> - React
 > - Pinia
 > - Laravel
+> - WordPress
 > - Ionic Capacitor
 > - Rust + WASM
+> - GrapgQL + LLM
+> - Technical SEO 
 
 #### 👯 I’m looking to collaborate on ...
 
@@ -43,6 +47,8 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 > - [LinkedIn](https://www.linkedin.com/in/andre-du-plessis-992a0329)
 > - **[ X ](https://x.com/AndreDuP_ADPC)**
 > - [DEV.TO](https://dev.to/andre_adpc)
+> - [Stackoverflow](https://stackoverflow.com/users/19977074/andre?tab=profile)
+> - [Bluesky](https://bsky.app/profile/andre-dup.bsky.social)
 > - [Substack](https://andreduplessis.substack.com/)
 > - [Facebook](https://www.facebook.com/RedDragonX5)
 
@@ -90,7 +96,8 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 [<img height="40" margin="10" src="./Assets/SVG_Files/Vue.JS.svg" alt="Vue.JS" >](https://vuejs.org/)
 [<img height="40" margin="10" src="./Assets/SVG_Files/Capacitor.svg" alt="Ionic Capacitor.JS" >](https://capacitorjs.com/)
 [<img height="40" margin="10" src="./Assets/SVG_Files/RustLang.svg" alt="Rust Language" >](https://www.rust-lang.org/)
-
+[<img height="40" margin="10" src="./Assets/SVG_Files/GraphQL.svg" alt="GraphQL APIs" >](https://www.graphql.org/)
+[<img height="40" margin="10" src="./Assets/SVG_Files/rest_api.svg" alt="REST APIs" >](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 </p>
 
 ### Other Frameworks & Tools I curently use<sup>📗</sup> or are learning to or plan to use<sup>📘</sup>
@@ -101,7 +108,7 @@ Yes, the underwater kind. Scuba diving is a favoutite pastime, and taking pictur
 | PostgeSQL<sup>📘</sup> | ClickHouse<sup>📘</sup>  |         Laragon<sup>📗</sup> |
 | SQLite<sup>📗</sup>    | SingleStore<sup>📘</sup> | MySQL Workbench<sup>📗</sup> |
 | NoSQL<sup>📘</sup>     |     AWS<sup>📗/sup>      |       TablePlus<sup>📗</sup> |
-| Redis<sup>📘</sup>     |           ?📘            |          Docker<sup>📗</sup> |
+| ~~Redis~~<sup>📕</sup> |    Valkey<sup>📘</sup>   |          Docker<sup>📗</sup> |
 
 ---
 
