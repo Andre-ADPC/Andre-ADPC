@@ -7,7 +7,7 @@
 
 **$${\color{#c40002}Welcome \space \color{grey}To \space \color{orange}My \space \color{d8b92b} GitHub \space \color{3186bf} Page}$$**
 
-$${\color{white}This \space will  \space in  \space all  \space probability  \space remain  \space a  \space \color{#c40002}WIP \space \color{white}!}$$
+$${\color{grey}This \space will  \space in  \space all  \space probability  \space remain  \space a  \space \color{#c40002}WIP \space \color{grey}!}$$
 
 ---
 
