@@ -98,7 +98,7 @@ Yes, the underwater kind. Scuba diving is a favourite pastime, and taking pictur
 [<img height="40" margin="10" src="./Assets/SVG_Files/Capacitor.svg" alt="Ionic Capacitor.JS" >](https://capacitorjs.com/)
 [<img height="40" margin="10" src="./Assets/SVG_Files/RustLang.svg" alt="Rust Language" >](https://www.rust-lang.org/)
 [<img height="40" margin="10" src="./Assets/SVG_Files/GraphQL.svg" alt="GraphQL APIs" >](https://www.graphql.org/)
-[<img height="40" margin="10" src="./Assets/SVG_Files/rest_api.svg" alt="REST APIs" >](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+[<img height="40" margin="10" src="./Assets/SVG_Files/restapi.svg" alt="REST APIs" >](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 </p>
 
 ### Other Frameworks & Tools I curently use<sup>📗</sup> or are learning to or plan to use<sup>📘</sup>
