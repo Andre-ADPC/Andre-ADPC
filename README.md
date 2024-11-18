@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-**$${\color{#c40002}Welcome \space \color{grey}To \space \color{orange}My \space \color{d8b92b} GitHub \space \color{3186bf} Page}$$**
+**$${\color{#8b92b}Welcome \space \color{#3d3d3d}To \space \color{#3d3d3d}My \space \color{#c40002} GitHub \space \color{#bbbbbb} Page}$$**
 
 $${\color{grey}This \space will  \space in  \space all  \space probability  \space remain  \space a  \space \color{#c40002}WIP \space \color{grey}!}$$
 
@@ -26,7 +26,7 @@ $${\color{grey}This \space will  \space in  \space all  \space probability  \spa
 > - WordPress
 > - Ionic Capacitor
 > - Rust + WASM
-> - GrapgQL + LLM
+> - GrapgQL for AI LLMs
 > - Technical SEO 
 
 #### 👯 I’m looking to collaborate on ...
