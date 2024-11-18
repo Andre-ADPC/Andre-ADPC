@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-**$${\size{24}\color{#d4b52d}Welcome \space \color{#4d4d4d}To \space \color{#3d3d3d}My \space \color{#c40002} GitHub \space \color{#bbbbbb} Page}$$**
+**$${\color{#d4b52d}Welcome \space \color{#4d4d4d}To \space \color{#3d3d3d}My \space \color{#c40002} GitHub \space \color{#bbbbbb} Page}$$**
 
 $${\color{grey}This \space will  \space in  \space all  \space probability  \space remain  \space a  \space \color{#c40002}WIP \space \color{grey}!}$$
 
