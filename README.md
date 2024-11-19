@@ -119,7 +119,7 @@ Yes, the underwater kind. Scuba diving is a favourite pastime, and taking pictur
 [<img height="40" margin="10" src="./Assets/SVG_Files/restapi.svg" alt="REST APIs" >](https://developer.mozilla.org/en-US/docs/Glossary/REST/)
 </p>
 
-### Other Frameworks & Tools I curently use <sup>📗</sup> or are learning to or plan to use <sup>📘</sup>
+### Some Frameworks & Tools I currently use <sup>📗</sup>, are learning to, or plan to use <sup>📘</sup> ... Also becoming aware of "corrupted" FOSS<sup>📕</sup>, which I'll avoid using AMAP.
 
 | Database Types          |         Platforms         |                   Other Tools |
 | :---------------------- | :-----------------------: | ----------------------------: |
@@ -140,7 +140,7 @@ _Just messing with my kids a bit. It keeps them on their toes! :wink:_
 
 ## More to Follow as I make New Discoveries
 
-### Reveal or Drop-down toggles
+### Reveal or Drop-down Toggles
 
 > <details open> 
   >  <summary> 
