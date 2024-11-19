@@ -23,7 +23,7 @@ $${\color{#c40002}<h6\space  align="center">But\space unfortunately\space neithe
 <h6 align="center">I'm already pushing my luck with inline-HTML as it's<br> 
 <span style="color: red; font-size:24px;"><i>BRrr  eaaaking...</i></span><br>
 MD Styling Rules by the 1000's!!</h6><br>
-<p><i>The heading "BRrr  eaaaking..." renders correctly (red text) in some MD parsers, in others it will not.</i></p>
+<p><i>The heading "BRrr  eaaaking..." renders correctly (red text, @ 24px) in some MD parsers, in others it will not.</i></p>
 
 Refer to [GitHub's MD Flavor Spec.](https://github.github.com/gfm/)
 
@@ -140,11 +140,13 @@ _Just messing with my kids a bit. It keeps them on their toes! :wink:_
 
 ## More to Follow as I make New Discoveries
 
+### Reveal or Drop-down toggles
+
 > <details open> 
   >  <summary> 
   >    <strong>What is Lorem Ipsum?</strong>
   >  </summary>
->  <i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</i></p>
+>  <i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever <strong>since the 1500s</strong>, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</i></p>
 ></details>
 
 <details> 
@@ -163,3 +165,42 @@ _Just messing with my kids a bit. It keeps them on their toes! :wink:_
 <img align="right" width="100" height="100" margin="30" border="red" src="https://media.tenor.com/images/6a136e1c2d7b30298a5b657348097a60/tenor.gif" alt="Keanu Reeves' 'You're Breathtaking' Meme" />
 
 > <i>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “"You're breathtaking,"” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</i>
+
+<i>The snippets above were discovered on [Aravind Ramalingam's Blog.](https://www.raravind.com/blog/web-development/7-advanced-markdown-tips) Do go check it out he has a number of other tricks up his sleeve.</i>
+
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .gfg {
+            position: relative;
+            width: 100%;
+            text-align: center;
+        }
+
+        .text-container {
+            position: absolute;
+            color: rgb(255, 255, 255);
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(41, 41, 41, 0.8);
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="gfg">
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
+            style="width: 50%; height: 60vh;">
+        <div class="text-container">
+            <h3>Sample</h3>
+            <p>Mountains Image with river</p>
+        </div>
+    </div>
+</body>
