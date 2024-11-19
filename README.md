@@ -200,11 +200,11 @@ There's a complete HTML document section down below, however, GitHub's MD parser
 
 <body>
     <div class="gfg">
-        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-            style="width: 50%; height: 60vh;">
+        <img src=".\Assets\Image_Files\img_snow_wide.jpg" 
+            style="width: 50%; height: 60vh;" alt="Somewhere in the Rocky's">
         <div class="text-container">
             <h3>Sample</h3>
-            <p>Mountains Image with river</p>
+            <p>Snow-covered Mountains - A View To Kill For</p>
         </div>
     </div>
 </body>
