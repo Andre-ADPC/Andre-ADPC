@@ -11,6 +11,24 @@ $${\color{grey}This \space will  \space in  \space all  \space probability  \spa
 
 ---
 
+<div class="container">
+  <img src=".\Assets\Image_Files\img_snow_wide.jpg" alt="Snow" style="width:100%;">
+
+  <h2 align="center">👆 -------- 👆 -------- 👆</h2>
+  <h4 position="absolute" top="50%" left="50%" transform="translate(-50%, -50%)" align="center">This View Looks Fantastic!</h4>
+</div>
+
+<span class="demo-highlight">This text is highlighted in yellow.</span>
+
+
+$${\color{#c40002}<h6\space  align="center">But\space unfortunately\space  text\space  overlays\space  simply\space  don't\space  work\space  in\space  Markdown.</h6>}$$
+
+<h6 align="center">I'm already pushing my luck with inline-HTML as it's<br> 
+<span style="color: red; font-size:24px;"><i>BRrr  eaaaking...</i></span><br>
+MD Styling Rules by the 1000's!!</h6>
+
+---
+
 #### 🔭 I’m currently working on ...
 
 > - Building an SPA | API Project to practice my development skills with the tools below.
@@ -119,3 +137,29 @@ Yes, the underwater kind. Scuba diving is a favourite pastime, and taking pictur
 ### [Hi Alicia. Done with that hacker yet? 🤩](https://www.linkedin.com/in/alicia-v-1096a463/)
 
 _Just messing with my kids a bit. It keeps them on their toes! :wink:_
+
+## More to Follow as I make New Discoveries
+
+> <details open> 
+  >  <summary> 
+  >    <strong>What is Lorem Ipsum?</strong>
+  >  </summary>
+>  <i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</i></p>
+></details>
+
+<details> 
+    <summary> 
+      <strong>Why do we use it?</strong>
+    </summary>
+<u><i>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</i></u>
+</details>
+
+---
+
+## Text vs Image Placement
+
+### You're Breathtaking
+
+<img align="right" width="100" height="100" margin="30" border="red" src="https://media.tenor.com/images/6a136e1c2d7b30298a5b657348097a60/tenor.gif" alt="Keanu Reeves' 'You're Breathtaking' Meme" />
+
+> <i>At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, loudly claiming, “"You're breathtaking,"” which was directed at the actor-cum-presenter. The image macro used to build the "You're Breathtaking" meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him - that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the "You're Breathtaking" meme.</i>
