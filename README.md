@@ -18,14 +18,14 @@ $${\color{grey}This \space will  \space in  \space all  \space probability  \spa
   <h4 position="absolute" top="50%" left="50%" transform="translate(-50%, -50%)" align="center">This View Looks Fantastic!</h4>
 </div>
 
-<span class="demo-highlight">This text is highlighted in yellow.</span>
-
-
 $${\color{#c40002}<h6\space  align="center">But\space unfortunately\space neither\space text\space  overlays\space  nor\space many\space other\space HTML\space formatting\space concepts\space work\space  with\space GitHub's\space Markdown\space parser.</h6>}$$
 
 <h6 align="center">I'm already pushing my luck with inline-HTML as it's<br> 
 <span style="color: red; font-size:24px;"><i>BRrr  eaaaking...</i></span><br>
-MD Styling Rules by the 1000's!!</h6>
+MD Styling Rules by the 1000's!!</h6><br>
+<p><i>The heading "BRrr  eaaaking..." renders correctly (red text) in some MD parsers, in others it will not.</i></p>
+
+Refer to [GitHub's MD Flavor Spec.](https://github.github.com/gfm/)
 
 ---
 
