@@ -78,6 +78,8 @@ Post-Quantum Encryption Solutions based on Rust and a WASM Browser interface.
 
 #### Me the human ...
 
+_🕷 —  Human, Tarantula Nebula | Consultant - Contractor - Nomad_
+
 _🏷️ —  Dad-of-Four, Ex-Teleco engineer, entrepreneur, self-taught dev, interested in tech, science, and life on a broad scale. Always busy developing and learning. Currently Building Q-Droid._
 
 _🏷️ —  I enjoy chatting about: Opinions, Facts and Practical Information regarding Entrepreneurship, Business Ventures, Software Development, Science & Tech. As I learn I write about it on Substack and here._
