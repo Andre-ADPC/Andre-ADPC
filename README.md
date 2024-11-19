@@ -175,6 +175,8 @@ _Just messing with my kids a bit. It keeps them on their toes! :wink:_
 ### Interesting HTML Conundrums
 There's a complete HTML document section down below, however, GitHub's MD parser seems to battle with how to handle this "intended mess". Opening this README.MD file in a browser reveals other differences between viewing the file via GitHub's User Profile Page vs viewing the transpiled Markdown in a browser via VS Code's UI in "Preview Mode".
 
+ <h3 align="center">👇🏻 -------- 👇🏻 -------- 👇🏻</h3>
+
 <!DOCTYPE html>
 <html lang="en">
 
