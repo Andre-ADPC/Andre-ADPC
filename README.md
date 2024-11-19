@@ -169,6 +169,10 @@ _Just messing with my kids a bit. It keeps them on their toes! :wink:_
 <i>The snippets above were discovered on [Aravind Ramalingam's Blog.](https://www.raravind.com/blog/web-development/7-advanced-markdown-tips) Do go check it out he has a number of other tricks up his sleeve.</i>
 
 ---
+
+### Interesting HTML Conundrums
+There's a complete HTML document section down below, however, GitHub's MD parser seems to battle with how to handle this "intended mess". Opening this README.MD file in a browser reveals other differences between viewing the file via GitHub's User Profile Page vs viewing the transpiled Markdown in a browser via VS Code's UI in "Preview Mode".
+
 <!DOCTYPE html>
 <html lang="en">
 
