@@ -180,7 +180,7 @@ There's a complete HTML document section down below, however, GitHub's MD parser
 
 <head>
     <style>
-        .gfg {
+        .image-underlay {
             position: relative;
             width: 100%;
             text-align: center;
@@ -201,11 +201,12 @@ There's a complete HTML document section down below, however, GitHub's MD parser
 </head>
 
 <body>
-    <div class="gfg">
+    <div class="image-underlay">
         <img src=".\Assets\Image_Files\img_snow_wide.jpg" 
             style="width: 50%; height: 60vh;" alt="Somewhere in the Rocky's">
         <div class="text-container">
-            <h3>Sample</h3>
+            <h3>Sample the Snow</h3>
+            <h4>It will be Good, I promise!</h4>
             <p>Snow-covered Mountains - A View To Kill For</p>
         </div>
     </div>
