@@ -21,7 +21,7 @@ $${\color{grey}This \space will  \space in  \space all  \space probability  \spa
 <span class="demo-highlight">This text is highlighted in yellow.</span>
 
 
-$${\color{#c40002}<h6\space  align="center">But\space unfortunately\space  text\space  overlays\space  simply\space  don't\space  work\space  in\space  Markdown.</h6>}$$
+$${\color{#c40002}<h6\space  align="center">But\space unfortunately\space neither\space text\space  overlays\space  nor\space many\space other\space HTML\space formatting\space concepts\space work\space  with\space GitHub's\space Markdown\space parser.</h6>}$$
 
 <h6 align="center">I'm already pushing my luck with inline-HTML as it's<br> 
 <span style="color: red; font-size:24px;"><i>BRrr  eaaaking...</i></span><br>
